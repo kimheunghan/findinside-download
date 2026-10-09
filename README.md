@@ -9,7 +9,7 @@
 | 방법 | 링크 |
 |---|---|
 | Microsoft Store (권장, 경고 없이 설치) | https://apps.microsoft.com/detail/9mstc81374sk?hl=ko-KR&gl=KR |
-| 설치 파일(.exe) 직접 받기 — 항상 최신 버전 | https://findinside.pages.dev/download/Find_Setup.exe |
+| 설치 파일(.exe) 직접 받기 — 최신 1.0.4 | [Find_Setup_v1.0.4.exe](https://findinside.pages.dev/download/Find_Setup_v1.0.4.exe) |
 | 버전별 설치 파일 | [Releases](https://github.com/kimheunghan/findinside-download/releases) |
 
 Windows 10·11 (64비트)
