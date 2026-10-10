@@ -27,8 +27,8 @@ Windows 10·11 (64비트)
 
 ## 소개·구매·문의
 
-- 소개·구매: https://findinside.pages.dev (또는 https://findinside.netlify.app)
-- 형식별 안내: [한글 내용 검색](https://findinside.pages.dev/hwp-search) · [PDF 내용 검색](https://findinside.pages.dev/pdf-search) · [엑셀 내용 검색](https://findinside.pages.dev/excel-search) · [이미지 글자 검색](https://findinside.pages.dev/ocr-search)
+- 소개·구매: [FindInside — 파일 내용 검색 프로그램](https://findinside.netlify.app)
+- 자세히 보기: [파일 검색 프로그램 (폴더 내 파일 내용 검색)](https://findinside.netlify.app/file-search) · [메일 본문·첨부파일 검색](https://findinside.netlify.app/mail-search) · [한글(HWP) 내용 검색](https://findinside.netlify.app/hwp-search) · [PDF 내용 검색](https://findinside.netlify.app/pdf-search) · [엑셀 내용 검색](https://findinside.netlify.app/excel-search) · [이미지 글자 검색](https://findinside.netlify.app/ocr-search)
 - 문의: hung6789@naver.com
 
 이 저장소에는 설치 파일만 올려 둡니다 (Releases 첨부).
